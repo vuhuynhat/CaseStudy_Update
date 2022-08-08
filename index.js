@@ -1,5 +1,5 @@
 import EnemyController from "./EnemyController.js";
-import Player from "./player.js";
+import Player from "./Player.js";
 import BulletController from "./BulletCotroller.js";
 
 const canvas = document.getElementById("game");
